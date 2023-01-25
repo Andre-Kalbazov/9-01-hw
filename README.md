@@ -6,3 +6,6 @@
 
 <ins>Приложите скриншот<ins>
 
+![img](img/img01.png)
+![img](img/img02.png)
+![img](img/img03.png)
